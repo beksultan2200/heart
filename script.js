@@ -3,7 +3,7 @@ var stage;
 var container;
 var captureContainers;
 var captureIndex;
-console.log(12);
+
 function init() {
   // create a new stage and point it at our canvas:
   canvas = document.getElementById("testCanvas");
